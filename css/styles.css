@@ -1,0 +1,14 @@
+:root {
+  --green: #5a8a5a;
+  --green-dark: #bcd6ae;
+  --pink-bg: #f5cdd8;
+  --pink-accent: #e87fa0;
+  --pink-bright: #f472b6;
+  --card-bg: rgba(255, 255, 255, 0.5);
+  --card-border: rgba(255, 255, 255, 0.75);
+  --input-bg: rgba(255, 255, 255, 0.95);
+  --input-text: #3d2a32;
+  --radius: 16px;
+  --radius-sm: 10px;
+  --font: "Montserrat", system-ui, sans-serif;
+}
